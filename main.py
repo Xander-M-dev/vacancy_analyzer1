@@ -1,7 +1,7 @@
 import json
 import psycopg2
-from utils import create_database
-from db_manager import DBManager
+from src.utils import create_database
+from src.db_manager import DBManager
 from config import config
 
 
